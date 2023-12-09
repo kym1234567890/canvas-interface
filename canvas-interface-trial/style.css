@@ -2,6 +2,9 @@
 /* Heebo */
 @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@500&display=swap');
 
+/* Black Ops One */
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap');
+
 
 
 * {
@@ -10,17 +13,18 @@
     background: #fff;
 }
 
-.cursor {
-    
-}
 
+/* Logo */
 
 div .logo {
-    /* background-color: #000; */
     text-align: center;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    position: relative;
+    top: 20px;
+    right: 33px;
+    font-family: 'Black Ops One', sans-serif;
+    font-size: 65px;
+    color: #000;
+
 }
 
 

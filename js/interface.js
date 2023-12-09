@@ -13,3 +13,5 @@ function slider() {
 slider();
 
 
+//Logo
+
